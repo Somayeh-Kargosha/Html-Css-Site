@@ -9,7 +9,6 @@ It provides a basic template that can be used as a starting point for building y
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -51,8 +50,3 @@ Here are the recommended steps:
 
 Please ensure that your contributions adhere to the project's coding conventions and follow the
 [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
-
-## License
-
-The project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for personal or commercial projects.
-
